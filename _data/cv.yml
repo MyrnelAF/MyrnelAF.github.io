@@ -2,21 +2,21 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Myrnel A. Fortuna
+#    - name: Date of Birth
+#      value: 14th March 1879
     - name: Languages
-      value: English, German
+      value: English, Filipino
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: RPh
+      institution: University of the Philippines Manila
+      year: 2016
       description:
-        - Description 1.
-        - Description 2.
+        - Bachelor of Science in Industrial Pharmacy
+        - Studied clinical, hospital, and industrial aspects of Pharmacy. Focused on drug design, drug formulation, and drug manufacturing practices during last three years of undergraduate studies.
         - title: Description 3.
           contents:
             - Sub-description 1.
