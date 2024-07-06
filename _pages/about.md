@@ -26,6 +26,3 @@ After the DDHP program ended, I joined the DOST Technical Battle Against COVID-1
 
 My current research at the UST Research Center for the Natural Sciences and Applied Sciences (RCNAS) under the supervision of Assistant Professor Leonardo A. Guevarra Jr. is on spider venoms from Philippine spider species. I am conducting peptide modeling for the project and investigating their binding to ion channels. Currently, I am applying MD simulations to understand the behavior of spider venom peptides in crossing lipid membranes and their dynamics upon binding to ion channels.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
