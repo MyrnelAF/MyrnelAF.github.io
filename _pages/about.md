@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: [RCNAS, UST](https://www.ust.edu.ph/research/research-center-for-the-natural-and-applied-sciences/). [good ViBEs Laboratory, UPD](https://www.ust.edu.ph/research/research-center-for-the-natural-and-applied-sciences/). [GAGAMBA Project](https://www.facebook.com/people/Philippine-Spider-Venom-Research/100064025140687/). CADD. Protein Engineering.
+subtitle: <a href='[RCNAS, UST](https://www.ust.edu.ph/research/research-center-for-the-natural-and-applied-sciences/)'> RCNAS, UST </a>. <a href='[good ViBEs Laboratory, UPD](https://www.ust.edu.ph/research/research-center-for-the-natural-and-applied-sciences/)'> good ViBEs Laboratory, UPD </a>. <a href='[GAGAMBA Project](https://www.facebook.com/people/Philippine-Spider-Venom-Research/100064025140687/)'> GAGAMBA Project </a>. CADD. Protein Engineering. ML for Peptide Folding.
 profile:
   align: right
   image: pcc_2023_crop.jpg
