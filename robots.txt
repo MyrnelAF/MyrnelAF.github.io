@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://MyrnelAF.github.io/MyrnelAF.github.io/sitemap.xml
+Sitemap: https://MyrnelAF.github.io/al-folio/sitemap.xml
