@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='[#](https://www.ust.edu.ph/research/research-center-for-the-natural-and-applied-sciences/)'> Research Center for the Natural and Applied Sciences, University of Santo Tomas (2024-present) </a>. <a href='[#](https://www.ust.edu.ph/research/research-center-for-the-natural-and-applied-sciences/)'> good ViBEs Laboratory, University of the Philippines Diliman (2021-present) </a>. Quezon City, Philippines. mdalmoradie@up.edu.ph.
+subtitle: <a href='[#](https://www.ust.edu.ph/research/research-center-for-the-natural-and-applied-sciences/)'> RCNAS, UST </a>. <a href='[#](https://www.ust.edu.ph/research/research-center-for-the-natural-and-applied-sciences/)'> good ViBEs Laboratory, UPD </a>. Quezon City, Philippines. mdalmoradie@up.edu.ph.
 profile:
   align: right
   image: pcc_2023_crop.jpg
