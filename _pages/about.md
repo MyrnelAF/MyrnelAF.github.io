@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='[#](https://www.ust.edu.ph/research/research-center-for-the-natural-and-applied-sciences/)'> RCNAS, UST </a>. <a href='[#](https://www.ust.edu.ph/research/research-center-for-the-natural-and-applied-sciences/)'> good ViBEs Laboratory, UPD </a>. <a href='[#](https://www.facebook.com/people/Philippine-Spider-Venom-Research/100064025140687/)'> GAGAMBA Project </a>. Quezon City, Philippines. mdalmoradie@up.edu.ph.
+subtitle: <a href='[#](https://www.ust.edu.ph/research/research-center-for-the-natural-and-applied-sciences/)'> RCNAS, UST </a>. <a href='[#](https://www.ust.edu.ph/research/research-center-for-the-natural-and-applied-sciences/)'> good ViBEs Laboratory, UPD </a>. <a href='[#](https://www.facebook.com/people/Philippine-Spider-Venom-Research/100064025140687/)'> GAGAMBA Project </a>. CADD. Protein Engineering. ML for Peptide Folding.
 profile:
   align: right
   image: pcc_2023_crop.jpg
