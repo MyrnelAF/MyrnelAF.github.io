@@ -26,6 +26,10 @@ After the DDHP program ended, I joined the DOST Technical Battle Against COVID-1
 
 My current research at the UST Research Center for the Natural Sciences and Applied Sciences (RCNAS) under the supervision of Assistant Professor Leonardo A. Guevarra Jr. is on spider venoms from Philippine spider species. I am conducting peptide modeling for the project and investigating their binding to ion channels. Currently, I am applying MD simulations to understand the behavior of spider venom peptides in crossing lipid membranes and their dynamics upon binding to ion channels.
 
-Outside the lab, I spend time with my husband and three cats. We usually host board game sessions when we're not busy. I am also a ranger in my current D&D campaign. I listen to Warhammer 40k podcasts (shoutout to [Lorecrimes](https://rss.com/podcasts/lorecrimes/), who helped me through several work sessions). I do a lot of crocheting, watercolor painting, and photography. This template suggested I post a favorite subreddit, and mine is [r/learnMath](https://www.reddit.com/r/learnmath/) since I'm a chemist trying best to improve my maths.
+Outside the lab, I spend time with my husband and three cats. We usually host board game sessions when we're not busy. I am also a ranger in my current D&D campaign. I listen to Warhammer 40k podcasts (shoutout to [Lorecrimes](https://rss.com/podcasts/lorecrimes/), who helped me through several work sessions). I do a lot of crocheting, watercolor painting, and photography. This template suggested I post a favorite subreddit, and mine is [r/learnMath](https://www.reddit.com/r/learnmath/) since I'm a chemist trying my best on maths.
 
-**Research Interests** Computer-Aided Drug Design, Computional Biophysical Analysis, Protein- Engineering of Industrial Enzymes, Peptide Folding, Ion Channels!
+**Research Interests.** Computer-Aided Drug Design, Computional Biophysical Analysis, Protein- Engineering of Industrial Enzymes, Peptide Folding, Ion Channels!
+
+**Relevant Courses Taken.** (Chem 359, Institute of Chemistry, UPD) Biophysical Analysis under Dr. Ricky B. Nellas, (Math 236, Institute of Math, UPD) Chemical Reaction Networks under Dr. Byran Hernandez, (MBB 390, National Institute of Molecular Biology and Biotechnology, UPD) Systems Biology and Introduction to Bioinformatics under Dr. Isaiah Lee.
+
+**Relevant Trainings and Workshops.** 2023 EU-ASEAN HPC School, BRIN, Bogor, Indonesia.
