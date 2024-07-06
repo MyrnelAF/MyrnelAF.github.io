@@ -9,9 +9,9 @@ profile:
   image: pcc_2023_crop.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 Room 213-214 </p>
-    <p>123 Institute of Chemistry UP Diliman, Research Building </p>
-    <p>Your Quezon City, Philippines 1109</p>
+    <p>Room 213-214 </p>
+    <p>Institute of Chemistry UP Diliman, Research Building </p>
+    <p>Quezon City, Philippines 1109</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
