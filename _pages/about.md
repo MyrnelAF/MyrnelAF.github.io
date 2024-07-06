@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-
+subtitle: <a href='#'>Affiliations</a>. Address.
 profile:
   align: right
   image: pcc_2023_crop.jpg
