@@ -32,7 +32,7 @@ My current research at the UST Research Center for the Natural Sciences and Appl
 
 **Research Interests.** Computer-Aided Drug Design, Computional Biophysical Analysis, Protein- Engineering of Industrial Enzymes, Peptide Folding, Ion Channels!
 
-**Relevant Courses Taken.** (Chem 359, Institute of Chemistry, UPD) Biophysical Analysis under Dr. Ricky B. Nellas, (Math 236, Institute of Math, UPD) Chemical Reaction Networks under Dr. Byran Hernandez, (MBB 390, National Institute of Molecular Biology and Biotechnology, UPD) Systems Biology and Introduction to Bioinformatics under Dr. Isaiah Lee.
+**Relevant Courses Taken.** (Chem 359, Institute of Chemistry, UPD) Biophysical Analysis under Dr. Ricky B. Nellas, (Math 236, Institute of Math, UPD) Chemical Reaction Networks under Dr. Byran Hernandez, (MBB 390, National Institute of Molecular Biology and Biotechnology, UPD) Systems Biology and Introduction to Bioinformatics under Dr. Isaiah Lee - paper produced from the course is being drafted.
 
 **Relevant Trainings and Workshops.**  _10th Annual CCPBioSim & MGMS 2024 Conference_: Molecular modelling in structure-based drug design; _Hybrid Hünfeld Workshop 2024_: Computer Simulation and Theory of Macromolecules - Max Planck Institute for Multidisciplinary Sciences; _EU-ASEAN HPC School 2023_, BRIN, Bogor, Indonesia; _UNHAN Quantum and Qiskit Workshop 2023_, Jakarta, Indonesia; _Hybrid Hünfeld Workshop 2022_: Computer Simulation and Theory of Macromolecules - Max Planck Institute for Multidisciplinary Sciences.
 
