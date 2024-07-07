@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://www.ust.edu.ph/research/research-center-for-the-natural-and-applied-sciences/"> RCNAS, UST </a>. <a href='[good ViBEs Laboratory, UPD](https://www.ust.edu.ph/research/research-center-for-the-natural-and-applied-sciences/)'> good ViBEs Laboratory, UPD </a>. <a href='[GAGAMBA Project](https://www.facebook.com/people/Philippine-Spider-Venom-Research/100064025140687/)'> GAGAMBA Project </a>. CADD. Protein Engineering. ML for Peptide Folding.
+subtitle: <a href="https://www.ust.edu.ph/research/research-center-for-the-natural-and-applied-sciences/"> RCNAS, UST </a>. <a href="https://goodvibeslab-upd.github.io//goodvibeslab-upd/"> good ViBEs Laboratory, UPD </a>. <a href="https://www.facebook.com/people/Philippine-Spider-Venom-Research/100064025140687"> GAGAMBA Project </a>. CADD. Protein Engineering. ML for Peptide Folding.
 profile:
   align: right
   image: pcc_2023_crop.jpg
@@ -28,12 +28,14 @@ Additional work I did for the COVID-19 project included the biophysical analyses
 
 My current research at the UST Research Center for the Natural Sciences and Applied Sciences (RCNAS) under the supervision of Assistant Professor Leonardo A. Guevarra Jr. is on spider venoms from Philippine spider species. I am conducting peptide modeling for the project and investigating their binding to ion channels. Currently, I am applying steered MD simulations to understand the behavior of spider venom peptides in crossing lipid membranes and their dynamics upon binding to ion channels.
 
+**Side Projects.** In 2023, I took over our lab's Protein Engineering side project, with my initial training under Dr. Ricky and Jadriel Meg Cabanding. I trained two undergraduate interns and drafted my first [first-author paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4699457), which is under review in Computational and Theoretical Chemistry.
+
 **Research Interests.** Computer-Aided Drug Design, Computional Biophysical Analysis, Protein- Engineering of Industrial Enzymes, Peptide Folding, Ion Channels!
 
 **Relevant Courses Taken.** (Chem 359, Institute of Chemistry, UPD) Biophysical Analysis under Dr. Ricky B. Nellas, (Math 236, Institute of Math, UPD) Chemical Reaction Networks under Dr. Byran Hernandez, (MBB 390, National Institute of Molecular Biology and Biotechnology, UPD) Systems Biology and Introduction to Bioinformatics under Dr. Isaiah Lee.
 
 **Relevant Trainings and Workshops.**  _10th Annual CCPBioSim & MGMS 2024 Conference_: Molecular modelling in structure-based drug design; _Hybrid Hünfeld Workshop 2024_: Computer Simulation and Theory of Macromolecules - Max Planck Institute for Multidisciplinary Sciences; _EU-ASEAN HPC School 2023_, BRIN, Bogor, Indonesia; _UNHAN Quantum and Qiskit Workshop 2023_, Jakarta, Indonesia; _Hybrid Hünfeld Workshop 2022_: Computer Simulation and Theory of Macromolecules - Max Planck Institute for Multidisciplinary Sciences.
 
-**Misc Lab activities.** I like tinkering with shell and python scripts to automate analysis. I want to make terminal navigation more efficient by playing with aliases. I enjoy creating pretty graphs using Mathematica (shoutout to my husband [Sean Julian C. Fortuna](https://github.com/slashdotfield) for the training). I like using Blender to make pretty visuals for our posters and oral presentations.
+**Misc Lab activities.** I like tinkering with shell and python scripts to automate analysis. I want to make terminal navigation more efficient by playing with aliases. I enjoy creating pretty graphs using Mathematica (shoutout to my husband [Sean Julian C. Fortuna](https://github.com/slashdotfield) for the training). I like using Blender to make pretty visuals for our posters and oral presentations. I made our [lab website](https://goodvibeslab-upd.github.io//goodvibeslab-upd/) which is still under construction. I manage our lab's github account. 
 
 **Outside the Lab.** Outside the lab, I spend time with my husband and three cats. We usually host board game sessions when we're not busy. I am also a ranger in my current D&D campaign. I listen to Warhammer 40k podcasts (shoutout to [Lorecrimes](https://rss.com/podcasts/lorecrimes/), who helped me through several work sessions). I do a lot of crocheting, watercolor painting, and photography. This template suggested I post a favorite subreddit, and mine is [r/learnMath](https://www.reddit.com/r/learnmath/) since I'm a chemist trying to improve my maths.
