@@ -5,8 +5,7 @@
     "image": "",
     "email": "mdalmoradie@up.edu.ph",
     "url": "https://myrnelaf.github.io/",
-    "summary": "Looking for a PhD principal investigator will aligned research interests to mine",
-    },
+    "summary": "Looking for a PhD principal investigator with aligned research interests to mine",
     "profiles": [
       {
         "network": "Twitter",
@@ -30,11 +29,11 @@
     {
       "institution": "University of the Philippines Diliman",
       "location": "Diliman, Quezon City",
-      "url": "https://upd.edu.ph//",
+      "url": "https://upd.edu.ph/",
       "area": "Chemistry",
       "studyType": "MS",
       "startDate": "2019-09-01",
-      "endDate": "currently a student",
+      "endDate": "present",
       "courses": ["computational chemistry"]
     },
     {
@@ -45,29 +44,29 @@
       "studyType": "BS",
       "startDate": "2010-06-01",
       "endDate": "2016-07-16",
-      "courses": ["drug design, drug formulation, medicinal chemistry"]
+      "courses": ["drug design", "drug formulation", "medicinal chemistry"]
     }
   ],
   "publications": [
     {
-      "name": "Computational Reverse Protein Engineering of a Lipase from Pseudomonas Aeruginosa in N -Hexane",
+      "name": "Computational Reverse Protein Engineering of a Lipase from Pseudomonas Aeruginosa in N-Hexane",
       "publisher": "SSRN",
       "releaseDate": "2024-01-18",
       "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4699457",
       "summary": "Pre-print status. Currently under review in Computational and Theoretical Chemistry"
-    },
+    }
   ],
   "skills": [
     {
       "name": "Computational Chemistry",
-      "level of education": "Graduate School",
+      "level": "Graduate School",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Computer-Aided Drug Design",
         "Molecular Dynamics Simulations",
         "Peptide Modeling",
         "Protein Engineering",
-        "Structural Biology",
+        "Structural Biology"
       ]
     }
   ],
@@ -92,7 +91,7 @@
         "Molecular Dynamics Simulations",
         "Peptide Modeling",
         "Protein Engineering",
-        "Structural Biology",
+        "Structural Biology"
       ]
     }
   ],
@@ -102,7 +101,7 @@
       "summary": "Computational protein engineering of commercial lipases to improve their activity and structural stability.",
       "highlights": ["Protein Engineering", "Lipases"],
       "startDate": "2023-05-01",
-      "endDate": "present",
+      "endDate": "present"
     }
   ]
 }
