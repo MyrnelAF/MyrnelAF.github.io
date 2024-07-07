@@ -32,6 +32,4 @@ Outside the lab, I spend time with my husband and three cats. We usually host bo
 
 **Relevant Courses Taken.** (Chem 359, Institute of Chemistry, UPD) Biophysical Analysis under Dr. Ricky B. Nellas, (Math 236, Institute of Math, UPD) Chemical Reaction Networks under Dr. Byran Hernandez, (MBB 390, National Institute of Molecular Biology and Biotechnology, UPD) Systems Biology and Introduction to Bioinformatics under Dr. Isaiah Lee.
 
-**Relevant Trainings and Workshops.**  10th Annual CCPBioSim & MGMS 2024 Conference: Molecular modelling in structure-based drug design; Hybrid Hünfeld Workshop: Computer Simulation and Theory of Macromolecules
-2024 - Max Planck Institute for Multidisciplinary Sciences; 2023 EU-ASEAN HPC School, BRIN, Bogor, Indonesia; 2023 UNHAN Quantum and Qiskit Workshop; Hybrid Hünfeld Workshop: Computer Simulation and Theory of Macromolecules
-2022 - Max Planck Institute for Multidisciplinary Sciences
+**Relevant Trainings and Workshops.**  10th Annual _CCPBioSim & MGMS 2024_ Conference: Molecular modelling in structure-based drug design; _Hybrid Hünfeld Workshop 2024_: Computer Simulation and Theory of Macromolecules - Max Planck Institute for Multidisciplinary Sciences; _2023 EU-ASEAN HPC School_, BRIN, Bogor, Indonesia; 2023 UNHAN _Quantum and Qiskit Workshop_, Jakarta, Indonesia; _Hybrid Hünfeld Workshop 2022_: Computer Simulation and Theory of Macromolecules - Max Planck Institute for Multidisciplinary Sciences
