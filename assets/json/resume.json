@@ -31,7 +31,7 @@
       "endDate": "2024-05-31",
       "summary": "CADD and GaMD Biophysical Analysis for COVID-19.",
       "highlights": ["COVID-19"]
-    }
+    },
     {
       "name": "Synthesis and Derivatization of Disease-specific Bioactive Hits and Lead Compounds (Phase II) Project 6. Computer-Aided Drug Design of Natural Products-Based, and Synthetic Antidiabetic, Antifungal, and Anticancer Lead Compounds and Derivatives (DOST-PCHRD-funded)",
       "position": "Science Research Specialist II",
@@ -115,15 +115,6 @@
         "Protein Engineering",
         "Structural Biology"
       ]
-    }
-  ],
-  "side projects": [
-    {
-      "name": "Protein Engineering",
-      "summary": "Computational protein engineering of commercial lipases to improve their activity and structural stability.",
-      "highlights": ["Protein Engineering", "Lipases"],
-      "startDate": "2023-05-01",
-      "endDate": "present"
     }
   ]
 }
