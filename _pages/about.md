@@ -36,7 +36,9 @@ My current research at the UST Research Center for the Natural Sciences and Appl
 
 **Relevant Trainings and Workshops.**  _10th Annual CCPBioSim & MGMS 2024 Conference_: Molecular modelling in structure-based drug design; _Hybrid Hünfeld Workshop 2024_: Computer Simulation and Theory of Macromolecules - Max Planck Institute for Multidisciplinary Sciences; _EU-ASEAN HPC School 2023_, BRIN, Bogor, Indonesia; _UNHAN Quantum and Qiskit Workshop 2023_, Jakarta, Indonesia; _Hybrid Hünfeld Workshop 2022_: Computer Simulation and Theory of Macromolecules - Max Planck Institute for Multidisciplinary Sciences.
 
-**Mentoring Experience.** -test1 -test2
+**Mentoring Experience.** 
+-test1 
+-test2
 
 **Misc Lab activities.** I like tinkering with shell and Python scripts to automate analysis. I want to make terminal navigation more efficient by playing with aliases. I enjoy creating pretty graphs using Mathematica (shoutout to my husband [Sean Julian C. Fortuna](https://github.com/slashdotfield) for the training). I like using Blender to make pretty visuals for our posters and oral presentations. I created our [lab website](https://goodvibeslab-upd.github.io//goodvibeslab-upd/), which is still under construction. After completing the EU-HPC School last 2023, I introduced the lab to the [FAIR principles](https://www.openaire.eu/how-to-make-your-data-fair) and thus opened and currently manage our lab's [GitHub account](https://github.com/goodvibeslab-upd).
 
