@@ -5,7 +5,7 @@
     "image": "",
     "email": "mdalmoradie@up.edu.ph",
     "url": "https://myrnelaf.github.io/",
-    "summary": "Looking for a PhD principal investigator with aligned research interests to mine",
+    "summary": "If I am guilty of anything, it is the pursuit of knowledge.- Magnes the Red",
     "profiles": [
       {
         "network": "Twitter",
@@ -22,7 +22,7 @@
       "startDate": "2024-07-01",
       "endDate": "present",
       "summary": "Peptide modeling and ion channel structure and dynamics.",
-      "highlights": ["Spider Toxins"]
+      "highlights": ["Peptide Modeling", "Ion Channel Dynamics"]
     },
     {
       "name": "Technical Battle Against COVID: Design and Synthesis of SARS-COV2, ACE2, SARS- COV2:ACE2 Destabilizing Compounds. (DOST-PCHRD-funded)",
@@ -31,14 +31,14 @@
       "endDate": "2024-05-31",
       "summary": "CADD and GaMD Biophysical Analysis for COVID-19.",
       "highlights": ["COVID-19"]
-    }
+    },
     {
       "name": "Synthesis and Derivatization of Disease-specific Bioactive Hits and Lead Compounds (Phase II) Project 6. Computer-Aided Drug Design of Natural Products-Based, and Synthetic Antidiabetic, Antifungal, and Anticancer Lead Compounds and Derivatives (DOST-PCHRD-funded)",
       "position": "Science Research Specialist II",
       "startDate": "2021-08-01",
       "endDate": "2023-05-31",
-      "summary": "CADD for cancer, Drug repurposing.",
-      "highlights": ["COVID-19"]
+      "summary": "CADD for cancer and drug repurposing.",
+      "highlights": ["CADD", "Drug Repurposing"]
     }
   ],
   "education": [
@@ -50,7 +50,7 @@
       "studyType": "Master of Science",
       "startDate": "2019-09-01",
       "endDate": "present",
-      "courses": ["computational chemistry"]
+      "courses": ["Computational Chemistry"]
     },
     {
       "institution": "University of the Philippines Manila",
@@ -60,7 +60,7 @@
       "studyType": "Bachelor of Science",
       "startDate": "2010-06-01",
       "endDate": "2016-07-16",
-      "courses": ["drug design", "drug formulation", "medicinal chemistry"]
+      "courses": ["Drug Design", "Drug Formulation", "Medicinal Chemistry"]
     }
   ],
   "publications": [
@@ -68,7 +68,7 @@
       "name": "GaMD Biophysical Analysis of Glycosylated Spike Protein.",
       "publisher": "Scientific Reports",
       "submittedDate": "2024-01-18",
-      "summary": "Currently under review in Nature Scientific Reports"
+      "summary": "Currently under review in Nature Scientific Reports."
     },
     {
       "name": "The importance of helical structures to the overall activity and structural stability of a lipase from Pseudomonas aeruginosa PAO1 in n-hexane",
