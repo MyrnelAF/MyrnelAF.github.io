@@ -29,7 +29,7 @@ Additional work for the COVID-19 project included biophysical analyses of the sp
 My latest research experience was at the UST Research Center for the Natural Sciences and Applied Sciences (RCNAS), where I worked under Assistant Professor Leonardo A. Guevarra. My work involved peptide modeling for spider venom sequences from Philippine spider species and studying their binding to ion channels. Currently, I apply steered MD simulations to understand the behavior of spider venom peptides in crossing lipid membranes and their dynamics upon binding to ion channels.
 
 **Side Projects**  
-In 2023, I took over our lab's protein engineering project, training two undergraduate interns. I published a paper on the [reverse engineering of bacterial PAL lipase](https://www.sciencedirect.com/science/article/abs/pii/S0003986124003485).  
+In 2023, I took over our lab's protein engineering project, training two undergraduate interns. I co-authored a paper on the [reverse engineering of bacterial PAL lipase](https://www.sciencedirect.com/science/article/abs/pii/S0003986124003485).  
 
 **Research Interests**  
 - Computer-Aided Drug Design  
